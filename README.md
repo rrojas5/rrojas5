@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Randall Rojas 👋
 
-<!--
-**rrojas5/rrojas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development Student at Central New Mexico Community College (CNM)  
+💻 Future Computer Science student preparing to transfer to UNM  
+🚀 Building projects in C++, Python, SQL, and Game Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I'm Learning
+![C++](https://img.shields.io/badge/C%2B%2B-Student-blue)
+![Python](https://img.shields.io/badge/Python-Learning-yellow)
+![SQL](https://img.shields.io/badge/SQL-Oracle-red)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+
+---
+
+## 📂 Programming Portfolio
+👉 [Randall-Rojas-Programming-Portfolio](https://github.com/rrojas5/Randall-Rojas-Programming-Portfolio)
+
+Projects include:
+- Prime Number Checker (C++)
+- Multiplication Tables
+- Loop & Pattern Programs
+- Database Projects (SQL)
+- Game Development Experiments
+
+---
+
+## 🎯 Current Goals
+- Strengthen algorithm skills in C++
+- Build real-world coding projects
+- Grow toward internships and transfer to UNM
+
+⭐ Thanks for visiting my profile!
